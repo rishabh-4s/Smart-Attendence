@@ -8,7 +8,7 @@ export default function Home() {
         <meta name="description" content="This is how we do it." />
         <link rel="icon" href="/icons8-immigration-64.png" />
       </Head>
-      This is how we do it so
+      This is how we do it so let us dance.
 
     </div>
   );
