@@ -63,47 +63,52 @@
 }
 .total__bg{
     background-color: yellow;
-    /* color: blanchedalmond; */
+    height: 100vh;
+    align-items: left;
 }
-/* .index__everything {
-  margin-top: 200px;
-  flex-direction: row;
-  vertical-align: middle;
-  /* padding-top : 100px ; 
-}
-*/
 
-/*
+
 .index__login {
   height: 260px;
-  
   padding-left: 10px;
   display: flex;
   align-items: left;
+  margin-top: 100px;
 }
+
 .index__links {
-  height: 10px;
-  margin-top: 150px;
+  height: 30px;
   display: flex;
   flex-direction: column;
   margin-left: 850px;
-  padding-top: 250px;
   font-size: 40px;
   font-weight: 500 ;
-  padding-top: 20px;
-  float: inline-end;
-  padding: auto;
-  vertical-align: middle;
+  /* padding-top: 20px; */
+  /* float: inline-end; */
+  /* padding-top: 10vh ; */
+  /* vertical-align: middle; */
 }
-*/
+
+
+.write_up{
+  font-size: 20px ;
+  font-weight: 500;
+  margin-top: 20px ;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 20px ;
+  padding: 10px ;
+}
 .button1 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif ;
-  margin-top: 55px;
-  padding: 10px;
-  margin-left: 10px;
+  margin-top: 170px;
+  padding: 20px;
+  background-color: rgb(96, 96, 252);
+  border-radius: 10px ;
 }
 .button2 {
   font-family :'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  padding: 10px;
-
+  margin-top : 10px ;
+  padding: 20px;
+  background-color: rgb(85, 85, 243);
+  border-radius: 10px ;
 }
