@@ -31,6 +31,14 @@ Steps to use the portal
 - Make a aesthetically pleasing portal with ease of use and simple instructions accessable by all. 
 
 
+<br />
+<br />
+<br />
+<br />
+
+# HOW TO ACCESS THIS PROJECT
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
