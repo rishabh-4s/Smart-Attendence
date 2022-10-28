@@ -1,3 +1,109 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.login {
+  background-color: turquoise;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login__logo {
+  height: 300px;
+  margin-top: 35px;
+}
+
+.login__container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+  height: 252px;
+  width: 396px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.login__container > h3 {
+  font-size: 25px;
+  font-weight: 400;
+  margin-top: 24px;
+  margin-bottom: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.login__container > form > center {
+  border: rgb(0, 0, 0);
+}
+
+.login__container > form > center > input {
+  height: 50px;
+  margin-bottom: 10px;
+  background-color: black;
+  width: 303px;
+  border: 1px solid black;
+  border-radius: 5px;
+  outline: none;
+  padding-left: 20px;
+  border: 1px solid white;
+  background: white repeat-x;
+  color: black;
+  line-height: 16px;
+  font-size: 17px;
+  vertical-align: middle;
+}
+
+.login__container > form > center > input ::-webkit-input-placeholder {
+  font-size: 107px;
+  color: red;
+  padding-left: 0px;
+}
+.total__bg{
+    background-color: yellow;
+    /* color: blanchedalmond; */
+}
+/* .index__everything {
+  margin-top: 200px;
+  flex-direction: row;
+  vertical-align: middle;
+  /* padding-top : 100px ; 
+}
+*/
+
+/*
+.index__login {
+  height: 260px;
+  
+  padding-left: 10px;
+  display: flex;
+  align-items: left;
+}
+.index__links {
+  height: 10px;
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 850px;
+  padding-top: 250px;
+  font-size: 40px;
+  font-weight: 500 ;
+  padding-top: 20px;
+  float: inline-end;
+  padding: auto;
+  vertical-align: middle;
+}
+*/
+.button1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif ;
+  margin-top: 55px;
+  padding: 10px;
+  margin-left: 10px;
+}
+.button2 {
+  font-family :'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 10px;
+
+}
