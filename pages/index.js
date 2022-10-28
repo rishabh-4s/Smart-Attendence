@@ -12,7 +12,7 @@ export default function Home() {
       <div className="total__bg">
         <div className="index__everything">
           <div className="index__links">
-            <Link href="/attendance_table">
+            <Link href="/checkattendance">
               <button className="button1">Attendance Page</button>
             </Link>
 
