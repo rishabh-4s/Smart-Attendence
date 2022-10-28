@@ -1,6 +1,6 @@
-import Head from "next/head";
-import Link from "next/link";
-
+import Head from 'next/head'
+// import checkattendance from './checkattendance.js';
+import Link from 'next/link'
 export default function Home() {
   return (
     <>
@@ -13,7 +13,7 @@ export default function Home() {
       <div className="total__bg">
         
         <div className="index__links">
-          <Link href="/attendance_table">
+          <Link href="/checkattendance">
             <button className="button1">Attendance Page</button>
           </Link>
 
