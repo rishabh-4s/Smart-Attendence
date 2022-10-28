@@ -1,15 +1,58 @@
-import Head from 'next/head'
+import Head from "next/head";
+import Link from "next/link";
 
 export default function Home() {
   return (
-    <div>
+    <>
       <Head>
         <title>Smart Attendance </title>
         <meta name="description" content="This is how we do it." />
         <link rel="icon" href="/icons8-immigration-64.png" />
       </Head>
-      This is how we do it so
+      <div className="total__bg">
+        <div className="index__everything">
+          <div className="index__links">
+            <Link href="/attendance_table">
+              <button className="button1">Attendance Page</button>
+            </Link>
 
-    </div>
+            <Link href="/login">
+              <button className="button2">Teacher Login Page</button>
+            </Link>
+          </div>
+        </div>
+        <img
+          src="http://smartattendanceapp.com/img/footerlogo.png"
+          className="index__login"
+        ></img>
+      </div>
+
+      {/* <main class="text-center font-sans font-bold text-9xl">
+        
+        <br />
+        Smart Attendance
+        <br />
+        <div class="text-2xl">
+          <div>
+            <Link href="/login">
+              <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold rounded-full text-2xl px-4 py-2 mt-10 shadow-lg">
+                Login
+              </button>
+            </Link>
+          </div>
+          <div>
+            <Link href="/signup">
+              <button
+                type="submit"
+                class="bg-blue-500 hover:bg-blue-700 text-white font-bold rounded-full text-2xl px-4 py-2 mt-5 shadow-lg"
+              >
+                Sign up
+              </button>
+            </Link>
+          </div>
+        </div>
+        </main>
+      */}
+    </>
   );
 }
