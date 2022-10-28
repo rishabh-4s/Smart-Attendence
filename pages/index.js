@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import checkattendance from './checkattendance.js';
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
         <link rel="icon" href="/icons8-immigration-64.png" />
       </Head>
       Start of the project.
+      
     </div>
   );
 }
