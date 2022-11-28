@@ -27,7 +27,7 @@ export default function Home() {
         ></img>
         
         <div className="write_up">
-          IMPROVE THE WRITE UP. A revolutionary piece of software that
+          A revolutionary piece of software that
           simplifies the tedious task of taking attendance hassle free. Please
           go ahead and try this for yourself.
         </div>
