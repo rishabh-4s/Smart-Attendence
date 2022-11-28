@@ -9,9 +9,7 @@ export default function Home() {
         <meta name="description" content="This is how we do it." />
         <link rel="icon" href="/icons8-immigration-64.png" />
       </Head>
-
       <div className="total__bg">
-        
         <div className="index__links">
           <Link href="/checkattendance">
             <button className="button1">Attendance Page</button>
