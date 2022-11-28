@@ -6,8 +6,7 @@ import { useState } from "react";
 import { signup } from "../firebase_app/firebase.js";
 
 export default function login() {
-
-  // control all this 
+  // control all this
   const history = useRouter("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -23,8 +22,8 @@ export default function login() {
         }
       });
   };
-  // till here handle it 
-  
+  // till here handle it
+
   return (
     <>
       <Head>
@@ -55,9 +54,12 @@ export default function login() {
             </center>
             <center>
               {/* PLS STYLE THE BUTTON */}
-              <button onClick={login} type="submit">
-                Log In
-              </button>
+              <Link href="/teacher">
+                <button> 
+                {/* <button onClick={login} type="submit"> */}
+                  Log In
+                </button>
+              </Link>
             </center>
           </form>
         </div>
