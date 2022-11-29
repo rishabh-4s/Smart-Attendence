@@ -6,6 +6,7 @@ import { useState } from "react";
 import { signup } from "../firebase_app/firebase.js";
 
 export default function login() {
+  const [val, setVal] = useState('');
   // control all this
   // const history = useRouter("");
   // const [email, setEmail] = useState("");
@@ -23,7 +24,6 @@ export default function login() {
   //     });
   // };
   // till here handle it
-
   return (
     <>
       <Head>
@@ -41,7 +41,8 @@ export default function login() {
               <input
                 type="email"
                 placeholder="Email Address"
-                onChange={(e) => setEmail(e.target.value)}
+                onChange={(e) =>
+                  setVal(e.target.value)}
               />
             </center>
 
@@ -49,13 +50,14 @@ export default function login() {
               <input
                 type="password"
                 placeholder="Password"
-                onChange={(e) => setPassword(e.target.value)}
               />
             </center>
+
             <center>
+              {val==='arjitsingh0609@gmail.com' &&
               <Link href="/teacher">
                 <button className="login_button">Log In</button>
-              </Link>
+              </Link>}
             </center>
           </form>
         </div>
