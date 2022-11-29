@@ -74,7 +74,7 @@
   font-family: "Ubuntu", sans-serif;
   font-family: "Varela Round", sans-serif;
   background-color: rgb(153, 226, 252);
-  border-radius: 20px ;
+  border-radius: 20px;
   padding: 5px;
   width: 80px;
   margin-top: 10px;
@@ -252,8 +252,26 @@
   /* display: flex; */
 }
 
-.iframe_table{
-  background-color: #000000;  
+.iframe_table {
+  background-color: #000000;
   background-image: url(../public/photo-1579546929518-9e396f3cc809.jfif);
   background-size: 220vh;
+}
+
+.pics_check {
+  background-color: cyan;
+  height: 100vh;
+  background-image: url(https://lh3.googleusercontent.com/pw/AL9nZEWoJNjvhMjUmhKfXZGE9YlWDbtagKBin7KmEVMQ1Z5BLD4uhgk5wM02GDunDpUKPo9spEo8DNlcIeOCX9kYHd9wX1_K24-iGrx_njw-KhQ9Jfslgo30apoVVWjKb-XzLEcvCMQXt-4Av1aOIEmvN3KO1g=w848-h566-no);
+  /* text-align: center; */
+  align-items: center;
+  padding-left: 300px;
+  background-size: 210vh;
+}
+
+.nownew {
+  padding-left : 270px;
+  font-size: 25px;
+  font-weight: bolder;
+  color: #e3fdfd;
+  padding-top : 10px ;
 }

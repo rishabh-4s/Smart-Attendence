@@ -14,7 +14,7 @@ function teacher() {
           <button className="button3">Check Attendance</button>
         </Link>
 
-        <Link href="/picupload">
+        <Link href="/newpic">
           <button className="button4">Image Upload</button>
         </Link>
       </div>
