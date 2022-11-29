@@ -93,7 +93,7 @@ export default function Home() {
 
           {uploadData && (
             <code>
-              <pre>{JSON.stringify(uploadData, null, 2)}</pre>
+              {/* <pre>{JSON.stringify(uploadData, null, 2)}</pre> */}
             </code>
           )}
         </form>
