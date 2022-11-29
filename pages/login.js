@@ -7,6 +7,7 @@ import { signup } from "../firebase_app/firebase.js";
 
 export default function login() {
   const [val, setVal] = useState('');
+  const [pas, setPas] = useState('');
   // control all this
   // const history = useRouter("");
   // const [email, setEmail] = useState("");
@@ -50,14 +51,16 @@ export default function login() {
               <input
                 type="password"
                 placeholder="Password"
+                onChange={(e) =>
+                  setPas(e.target.value)}
               />
             </center>
 
             <center>
-              {val==='arjitsingh0609@gmail.com' &&
+              {val==='arjitsingh0609@gmail.com' && pas==='12345'?
               <Link href="/teacher">
                 <button className="login_button">Log In</button>
-              </Link>}
+              </Link>:<button className="login_button" onClick={()=> alert('User not found or the password is wrong')}>Log In</button>}
             </center>
           </form>
         </div>

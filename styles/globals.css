@@ -167,10 +167,12 @@
   /* padding: 20px; */
   background-color: #ffadbc;
   color: black;
+
   border-radius: 30px;
   font-family: "Ubuntu", sans-serif;
   font-family: "Varela Round", sans-serif;
 }
+
 .button2 {
   width: 250px;
   padding-top: 5px;
