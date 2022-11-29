@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-attendance-system-370014",
+  "private_key_id": "d691ad340ff675e3eaa73ffdf42b5c08035a07c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2ldtqwsfoyb0u\n4Ac/XPoBF+ZNTjHwgT6HmduyJwRGvTOu5Vj83OGo7PX6EuRrDG7N44UHWRpLClq4\njioBrrmqGvc/f+k+PC9QZwhZntEG3Y9vcoVP8CM5/Fm/qy1mPC/HHt72a6ezUbz1\nAvgrjOcmIEVBEjg9Rkh897uOYNVtQYaa6vOcYkz7EF/GNo6OZs/QjsmN2LeMdpjE\ne74J3Od0NcA3cCikiCvqal/YQqvCS9IcLNAKd0NqU5bm9HHHijiZV7RM6l/2rQYi\nV7XFQ/xxPhsYaSO4EeJi+7iHHneO698iCDn3+JxWdLT3inCl+0sc0fhKf0zPBiFE\nZbzkxQC3AgMBAAECggEAAw3rYhQov0vYqVcVZ/RIjl91pSdrYx2WYTMBX4U9khK0\n3EvOkEmq+2YeEJ/jnagoll3O/494XCGr4Nh9UBKPMo70QeYEOIajN/zGlqaMfUk+\n5AYOFYdBNPAexDu7LQb8DvWvlH8P4B+8QdEEkR3wo/ei5kgavr5VP29EKPPqaMMf\niGKZM7Yvv0LaVyUImhjI0N0Q2QoCmorTy2RqY109nRnbGpMjD634n5h+B+tp2GJE\nluRYj8xTUhp9a23tPLlEh5/Ur/Xrpk2KPMGMRKptaIO1bC64OyFWEhBXGlqMM0DM\nuWQX1a2eaeUmtlZLqDWegfG+jffJWqmpwDA6Ei4sOQKBgQD87ueuCdRIxGPzfZMO\nx2Jzl58dzX7m/XKXCxVgzXsVAU3XrqKqr370b4jJvbZmjd6EV+4fuxoLcL3NYK/W\nDw3ptoD/rGWGN+nPBuRVYZrga+coM+e/DDI9WXazCJ8xX9T2b92wIcr2K4s+pmmn\nc+NrsUV9bMXypB+IWRI/z2tnpQKBgQC4zJhYQiNaWbcGFjEj+q/t7y0SjBQoYijm\nWlBjW8Iv7U8R64T07qVceZva+DJZBbMM5HvWzgdCxY682y7kbCrBaCn+ipVJduBa\n643ppAYHBNhnSBnueYmXAuKyND8CM9ZjjaBUBy+6rIgGvixifa9AHZOuEi7i0bKV\nr1IG6Yy4KwKBgEJI/dBfZRG43hTWqO5rlEKEzr9JtmMksp4g2nZnA0WK9PJ8Iscm\nfNfkTu3H2QBhV5pJTO9l4jpzTlp/ZzVq9pN0L7RRYr3c81o9DSPPE36S6J5hk+8+\nbAAl7PSYYtfWrIH06R0ajg0bdj9x7yhiN4xmhbaMBghDuLvL0/uDCTu9AoGAIlSn\n7KWEydEm5jOTN3rn2gz3051AVWw+6uRWUM8IGT091jdpwNLg13gkEx7Ow6kCZV/A\n/dvSj34CEWWqpXbOzpVaT9ZQ+4/hCCMAfyogkIc+6JkFcD8V5376vF5mYjNdHat+\n4H1hSY2py47i0f1FZGTaPZlVKoAIbDRgybXzlXcCgYBUL/IGAIEcz10PDi9pRKWs\nfX+EtXsZe5DL7BpT+wPAq32itFx0EKvzzMlC/iEjBXwenj2a0wU/hZLTzyRiSPgu\nDZ0aCV+ulq4Don1zySxnQLMJfUxSHQHmdHWU/lNb2arwY4eGSFV40GzHVnS1KLV4\nAdCEKC/ubRsdWtE8N9IoFQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "rishabh@smart-attendance-system-370014.iam.gserviceaccount.com",
+  "client_id": "110172453504853676240",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rishabh%40smart-attendance-system-370014.iam.gserviceaccount.com"
+}
