@@ -6,25 +6,24 @@ import { useState } from "react";
 import { signup } from "../firebase_app/firebase.js";
 
 export default function login() {
+  // control all this
+  // const history = useRouter("");
+  // const [email, setEmail] = useState("");
+  // const [password, setPassword] = useState("");
+  // const login = (event) => {
+  //   event.preventDefault();
+  //   signup
+  //     .then((auth) => {
+  //       Router.push("/");
+  //     })
+  //     .catch((e) => {
+  //       if (e.message === "The pasw is invalid") {
+  //         alert("Please check again");
+  //       }
+  //     });
+  // };
+  // till here handle it
 
-  // control all this 
-  const history = useRouter("");
-  const [email, setEmail] = useState("");
-  const [password, setPassword] = useState("");
-  const login = (event) => {
-    event.preventDefault();
-    signup
-      .then((auth) => {
-        Router.push("/");
-      })
-      .catch((e) => {
-        if (e.message === "The pasw is invalid") {
-          alert("Please check again");
-        }
-      });
-  };
-  // till here handle it 
-  
   return (
     <>
       <Head>
@@ -32,7 +31,7 @@ export default function login() {
       </Head>
       <div className="login">
         <img
-          src="https://helen.edu.vn/wp-content/uploads/2021/09/smart-attendance-management-systemt-2-1024x576.jpeg"
+          src="https://cdn-icons-png.flaticon.com/512/5087/5087592.png"
           className="login__logo"
         ></img>
         <div className="login__container">
@@ -54,10 +53,9 @@ export default function login() {
               />
             </center>
             <center>
-              {/* PLS STYLE THE BUTTON */}
-              <button onClick={login} type="submit">
-                Log In
-              </button>
+              <Link href="/teacher">
+                <button className="login_button">Log In</button>
+              </Link>
             </center>
           </form>
         </div>

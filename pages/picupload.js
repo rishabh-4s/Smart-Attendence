@@ -67,10 +67,10 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Image Uploader</h1>
+        <h1 className={styles.title}>IMAGE UPLOADER</h1>
 
         <p className={styles.description}>
-          Please upload image to mark attendance!
+          Please upload image to mark attendance.
         </p>
 
         <form
@@ -87,7 +87,7 @@ export default function Home() {
 
           {imageSrc && !uploadData && (
             <p>
-              <button>Upload Files</button>
+              <button className="button-85">Upload Files</button>
             </p>
           )}
 
