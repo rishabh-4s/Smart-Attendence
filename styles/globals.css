@@ -86,7 +86,7 @@
 
   /* background-color: #0ceb10; */
   height: 100vh;
-  width: 204vh;
+  width: 100%;
 }
 .abc {
   width: 100%;
@@ -172,7 +172,6 @@
   font-family: "Ubuntu", sans-serif;
   font-family: "Varela Round", sans-serif;
 }
-
 .button2 {
   width: 250px;
   padding-top: 5px;
@@ -187,6 +186,15 @@
   margin-right: 20px;
   font-family: "Ubuntu", sans-serif;
   font-family: "Varela Round", sans-serif;
+}
+.button1:hover{
+  background-color: white;
+  color: black;
+}
+.button2:hover{
+  background-color: white;
+  color: black;
+
 }
 .button3 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
