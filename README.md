@@ -1,5 +1,5 @@
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=next.js,next.js,1f020a;tailwindcss,tailwind,5883f5;css3,css3,fc407e;python,python,1cd7e6;dlib,dlib,96f87c;google%20cloud,google%20cloud,3086b7;google%20sheets,google%20sheets,f84736;)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=next.js,next.js,1f020a;tailwindcss,tailwind,5883f5;css3,css3,fc407e;python,python,1cd7e6;dlib,dlib,96f87c;google%20cloud,google%20cloud,3086b7;google%20sheets,google%20sheets,f84736;)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&line1=next.js,next.js,1f020a;tailwindcss,tailwind,5883f5;css3,css3,fc407e;&line2=python,python,40847f;dlib,dlib,048a00;google%20sheets,google%20sheets,0c34d3;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&line1=next.js,next.js,1f020a;tailwindcss,tailwind,5883f5;css3,css3,fc407e;&line2=python,python,40847f;dlib,dlib,048a00;google%20sheets,google%20sheets,0c34d3;)
 
 # Idea
 
