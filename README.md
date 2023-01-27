@@ -34,11 +34,6 @@ Steps to use the portal
 - Make a aesthetically pleasing portal with ease of use and simple instructions accessable by all. 
 
 
-<br />
-<br />
-<br />
-<br />
-
 ## HOW TO ACCESS THIS PROJECT
 
 
