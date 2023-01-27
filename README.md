@@ -1,3 +1,6 @@
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=next.js,next.js,1f020a;tailwindcss,tailwind,5883f5;css3,css3,fc407e;python,python,1cd7e6;dlib,dlib,96f87c;google%20cloud,google%20cloud,3086b7;google%20sheets,google%20sheets,f84736;)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=next.js,next.js,1f020a;tailwindcss,tailwind,5883f5;css3,css3,fc407e;python,python,1cd7e6;dlib,dlib,96f87c;google%20cloud,google%20cloud,3086b7;google%20sheets,google%20sheets,f84736;)
+
 # Idea
 
 We are working towards an idea that moves to integrate and simplify the tedious task of taking attendance in classes.
