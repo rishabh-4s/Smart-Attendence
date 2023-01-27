@@ -1,7 +1,7 @@
-
+# Smart Attendance System
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&line1=next.js,next.js,1f020a;tailwindcss,tailwind,5883f5;css3,css3,fc407e;&line2=python,python,40847f;dlib,dlib,048a00;google%20sheets,google%20sheets,0c34d3;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&line1=next.js,next.js,1f020a;tailwindcss,tailwind,5883f5;css3,css3,fc407e;&line2=python,python,40847f;dlib,dlib,048a00;google%20sheets,google%20sheets,0c34d3;)
 
-# Idea
+## Idea
 
 We are working towards an idea that moves to integrate and simplify the tedious task of taking attendance in classes.
 - We are trying to make a suitable web app that will provide smart attendance with the help of facial recognition and make an easy to use and an eye catching portal wih sign in options for both the student and the instructor. 
@@ -26,7 +26,7 @@ Steps to use the portal
 - Upload some clear images for the facial recognition.(option to update with time)
 - Check his attendance for the previous dates. 
 
-# Back End working 
+## Back End working 
 
 - This project takes the help of image processing algorithms to recognize a particular person in an image and updates the attendance accordingly.
 - Maintain a database of images for each student. 
@@ -39,12 +39,12 @@ Steps to use the portal
 <br />
 <br />
 
-# HOW TO ACCESS THIS PROJECT
+## HOW TO ACCESS THIS PROJECT
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+### Getting Started
 
 First, run the development server:
 
@@ -62,7 +62,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+### Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -71,7 +71,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+### Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
